@@ -1,0 +1,16 @@
+PODS:
+  - CoreDataKit (0.2)
+
+DEPENDENCIES:
+  - CoreDataKit (from `../CoreDataKitPod`)
+
+EXTERNAL SOURCES:
+  CoreDataKit:
+    :path: "../CoreDataKitPod"
+
+SPEC CHECKSUMS:
+  CoreDataKit: d139e05cbb813742f4b19a67326d70464850689b
+
+PODFILE CHECKSUM: a30ceb6fa3e222b0431002415417407a03d4065b
+
+COCOAPODS: 1.9.1
